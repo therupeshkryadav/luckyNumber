@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_to_the_lucky_number_app">Welcome to the Lucky Number App</string>
+    <string name="please_enter_your_name">Please Enter Your Name</string>
+    <string name="find_the_lucky_number">Wish me a luck!!</string>
+    <string name="dicegame">diceGame</string>
+</resources>
